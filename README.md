@@ -501,19 +501,6 @@ screenshots/
 └── dark-mode.png
 ```
 
-Then add them to this README:
-
-```markdown
-![Dashboard](https://kommodo.ai/i/s0y7RKcb64j2lOV6nwOE)
-```
-
-### Dashboard
-
-![Dashboard](https://kommodo.ai/i/s0y7RKcb64j2lOV6nwOE)
-![Dashboard](https://kommodo.ai/i/BmEz1mel3nPW2PzV4r43)
-
----
-
 ## 🗺️ Future Roadmap
 
 The project can be expanded with the following features:
